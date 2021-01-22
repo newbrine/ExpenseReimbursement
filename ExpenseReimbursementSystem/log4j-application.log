@@ -1,0 +1,154 @@
+/ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-13 20:44:14.926: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-13 20:54:11.455: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-13 20:54:11.455: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-13 20:54:15.808: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 20:54:17.105: Employee 12 has logged in.
+2021-01-13 20:54:17.112: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 20:54:17.418: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-13 20:54:23.372: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-13 20:54:23.372: Employee 12 has logged out.
+2021-01-13 20:54:23.384: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-13 20:54:23.385: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:01:09.841: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:01:12.268: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-13 21:01:12.274: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:01:17.219: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:01:18.036: Employee 1 has logged in.
+2021-01-13 21:01:18.042: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:01:18.322: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:02:38.758: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:02:39.424: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:03:58.562: /ExpenseReimbursementSystem/expense/approve has been accessed.
+2021-01-13 21:03:58.565: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:03:58.984: Employee 1 has approved Ticket 3
+2021-01-13 21:03:59.177: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:04:03.892: /ExpenseReimbursementSystem/expense/deny has been accessed.
+2021-01-13 21:04:03.892: Employee 1 has denied Ticket 3
+2021-01-13 21:04:04.163: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:05:14.143: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:05:14.487: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:05:37.122: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:05:37.809: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:06:00.189: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:06:00.828: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:06:52.461: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:06:53.106: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:07:17.945: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:07:18.593: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:09:31.807: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:09:34.204: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-13 21:09:41.571: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:09:41.727: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:09:42.856: Employee 1 has logged in.
+2021-01-13 21:09:42.858: Employee 1 has logged in.
+2021-01-13 21:09:42.864: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:09:43.139: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:10:08.149: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:10:08.927: Employee 12 has logged in.
+2021-01-13 21:10:08.933: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:10:09.214: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-13 21:11:15.814: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-13 21:11:15.814: Employee 12 has logged out.
+2021-01-13 21:11:15.818: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:11:15.822: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-13 21:11:21.472: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:11:22.28: Employee 1 has logged in.
+2021-01-13 21:11:22.286: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:11:22.559: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:13:09.899: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:13:10.504: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:13:36.677: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:13:38.003: Employee 1 has logged in.
+2021-01-13 21:13:38.01: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:13:38.309: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:15:33.555: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:15:34.221: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:15:38.505: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-13 21:15:38.507: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:15:44.093: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:15:45.031: Employee 1 has logged in.
+2021-01-13 21:15:45.037: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:15:45.309: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:16:35.437: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:16:36.108: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:17:15.852: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:17:16.466: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:17:32.843: /ExpenseReimbursementSystem/expense/approve has been accessed.
+2021-01-13 21:17:32.857: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:17:33.241: Employee 1 has approved Ticket 3
+2021-01-13 21:17:33.482: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-13 21:57:31.928: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-13 21:57:38.29: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-13 21:57:44.978: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-13 21:57:46.056: Employee 12 has logged in.
+2021-01-13 21:57:46.064: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 21:57:46.358: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-13 22:02:02.784: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-13 22:02:03.407: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 08:53:55.887: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-14 08:54:42.945: /ExpenseReimbursementSystem/expense/EmpLogin has been accessed.
+2021-01-14 08:54:42.948: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-14 08:54:49.4: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 08:54:50.907: Employee 12 has logged in.
+2021-01-14 08:54:50.921: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 08:54:51.248: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 08:55:12.996: /ExpenseReimbursementSystem/expense/empCreateTicket has been accessed.
+2021-01-14 08:55:12.998: Employee 12 has created a ticket.
+2021-01-14 08:55:19.206: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 08:55:19.81: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 08:55:24.834: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 08:55:24.834: Employee 12 has logged out.
+2021-01-14 08:55:24.844: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 08:55:31.51: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 08:55:32.272: Employee 1 has logged in.
+2021-01-14 08:55:32.279: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 08:55:32.563: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 08:56:54.789: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 08:56:55.976: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 08:56:56.093: Employee 1 has logged in.
+2021-01-14 08:56:56.752: Employee 1 has logged in.
+2021-01-14 08:56:56.759: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 08:56:57.374: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 08:56:59.464: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 08:56:59.464: Employee 1 has logged out.
+2021-01-14 08:56:59.473: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 09:06:50.108: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-14 09:07:00.478: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 09:07:01.305: Employee 12 has logged in.
+2021-01-14 09:07:01.311: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 09:07:02.133: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 09:07:36.067: /ExpenseReimbursementSystem/expense/empCreateTicket has been accessed.
+2021-01-14 09:07:36.069: Employee 12 has created a ticket.
+2021-01-14 09:07:47.752: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 09:07:48.524: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 09:08:01.298: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 09:08:01.298: Employee 12 has logged out.
+2021-01-14 09:08:08.866: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 09:08:09.675: Employee 1 has logged in.
+2021-01-14 09:08:09.68: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 09:08:10.028: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 09:08:29.432: /ExpenseReimbursementSystem/expense/manCreateTicket has been accessed.
+2021-01-14 09:08:29.433: Employee 1 has created a ticket.
+2021-01-14 09:08:33.307: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 09:08:34.018: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 09:08:50.851: /ExpenseReimbursementSystem/expense/approve has been accessed.
+2021-01-14 09:08:50.875: /ExpenseReimbursementSystem/expense/MangMenu has been accessed.
+2021-01-14 09:08:51.285: Employee 1 has approved Ticket 4
+2021-01-14 09:08:51.677: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 09:09:01.009: /ExpenseReimbursementSystem/expense/deny has been accessed.
+2021-01-14 09:09:01.396: Employee 1 has denied Ticket 5
+2021-01-14 09:09:01.757: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 09:09:46.91: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 09:09:46.91: Employee 1 has logged out.
+2021-01-14 09:09:47.633: /ExpenseReimbursementSystem/expense/manViewPast has been accessed.
+2021-01-14 09:09:52.106: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 09:09:52.902: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 09:09:59.322: /ExpenseReimbursementSystem/expense/home has been accessed.
+2021-01-14 09:10:03.911: /ExpenseReimbursementSystem/expense/check has been accessed.
+2021-01-14 09:10:04.74: Employee 12 has logged in.
+2021-01-14 09:10:04.747: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.
+2021-01-14 09:10:05.073: /ExpenseReimbursementSystem/expense/empViewPast has been accessed.
+2021-01-14 09:10:07.398: /ExpenseReimbursementSystem/expense/logout has been accessed.
+2021-01-14 09:10:07.398: Employee 12 has logged out.
+2021-01-14 09:10:13.953: /ExpenseReimbursementSystem/expense/EmpMenu has been accessed.

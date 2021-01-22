@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Manager Menu</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+
+	<nav class="navbar navbar-dark bg-primary justify-content-between">
+	  <a class="navbar-brand">Manager Menu</a>
+	  <form class="form-inline">
+	    <button class="btn btn-secondary my-5 my-sm-0" type="submit" onclick="logout()">Logout</button>
+	  </form>
+	</nav>
+
+	<table class="table" id="pastTicketTable">
+	  <thead>
+	    <tr>
+	      <th scope="col">Ticket Id</th>
+	      <th scope="col">Employee Id</th>
+	      <th scope="col">Request Amount</th>
+	      <th scope="col">Request Type</th>
+	      <th scope="col">Description</th>
+	      <th scope="col">Approved</th>
+	      <th scope="col">Denied</th>
+	      <th scope="col">Pending</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	  </tbody>
+	</table>
+	
+	<!-- Button trigger modal -->
+	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newTicketModal">
+	  Create a new Ticket
+	</button>
+	
+	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#approveDenyModal">
+	  Approve/Deny Tickets
+	</button>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="newTicketModal" tabindex="-1" role="dialog" aria-labelledby="newTicketModalLabel" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="newTicketModalLabel">Create a ticket</h5>
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true">&times;</span>
+	        </button>
+	      </div>
+	      <div class="modal-body">
+	        <form id=createForm>
+	          <div class="form-group">
+			    <label for="employeeId">Employee ID</label>
+			    <input type="number" class="form-control" id="employeeId" placeholder="1234567890">
+			  </div>
+			  <div class="form-group">
+			    <label for="requestAmount">Amount</label>
+			    <input type="number" step="0.01" class="form-control" id="requestAmount" placeholder="$0.00">
+			  </div>
+			  <div class="form-group">
+			    <label for="requestType">Request Type</label>
+			    <select multiple class="form-control" id="requestType">
+			      <option>Food</option>
+			      <option>Lodging</option>
+			      <option>Travel</option>
+			      <option>Other</option>
+			    </select>
+			  </div>
+			  <div class="form-group">
+			    <label for="description">Description</label>
+			    <textarea class="form-control" id="description" rows="3"></textarea>
+			  </div>
+			</form>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-secondary" id=newTicketSubmit data-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary" onclick="createTicket()">Submit</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="approveDenyModal" tabindex="-1" role="dialog" aria-labelledby="approveDenyModalLabel" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="approveDenyModalLabel">Approve/Deny a ticket</h5>
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true">&times;</span>
+	        </button>
+	      </div>
+	      <div class="modal-body">
+	        <form>
+			  <div class="form-group">
+			    <input type="number" class="form-control" id="ticketId"  placeholder="Enter ticket id">
+			  </div>
+			  <button type="submit" class="btn btn-primary" onclick="approveTicket()">Approve Ticket</button>
+			  <button type="submit" class="btn btn-primary" onclick="denyTicket()">Deny Ticket</button>
+			</form>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-secondary" id=approveDenyClose data-dismiss="modal">Close</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>    <script src="../ajax.js"></script>
+    <script src="../ajax.js"></script>
+    <script src="../managerMenu.js"></script>
+</body>
+
+</html>

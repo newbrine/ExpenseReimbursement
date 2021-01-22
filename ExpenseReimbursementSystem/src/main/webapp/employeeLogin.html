@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Employee Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+
+	<nav class="navbar navbar-dark bg-primary justify-content-between">
+	  <a class="navbar-brand">Employee Login</a>
+	  <form class="form-inline">
+	    <button class="btn btn-secondary my-5 my-sm-0" type="submit" onclick="employeeLogin()">Login</button>
+	  </form>
+	</nav>
+	
+	<div class="col d-flex justify-content-center" style="padding: 10em">
+		<div class="card" style="width: 18rem;">
+			<h1>Login Form</h1>
+			<form method="POST" action="http://localhost:8080/ExpenseReimbursementSystem/expense/check">
+			  <div class="form-group">
+			    <label for="inputEmail">Email Address:</label>
+			    <input type="email" class="form-control" id="email" name="email" value="example@gmail.com">
+			  </div>
+			  <div class="form-group">
+			    <label for="inputPassword">Password:</label>
+			    <input type="password" class="form-control" id="password" name="password" value="password">
+			  </div>
+			  <button type="submit" class="btn btn-primary" value="Submit">Submit</button>
+			</form>
+		</div>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <!-- <script src="../ajax.js"></script> -->
+</body>
+
+</html>
