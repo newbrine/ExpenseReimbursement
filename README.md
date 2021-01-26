@@ -44,5 +44,5 @@ http://localhost:8080/ExpenseReimbursementSystem/expense/home
 
 The main screen should look similar to this
 
-[Home Screen](/images/homescreen.png)
+[Home Screen](/images/homescreen.PNG)
 
