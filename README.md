@@ -30,9 +30,19 @@ To-do list:
 
 ## Getting Started
 
+Make sure to have Apache Tomcat and a JDK installed. From there, clone the git using the following command
+
+`git clone https://github.com/newbrine/ExpenseReimbursement.git`
+
+From there, opne the project in an ide, set up the Tomcat server as a runtime environment, and then run the Master servlet on the Tomcat Server.
 
 ## Usage
 
+As long as the Master servlet is running, you should be able to access the home page of the site using the following link
 
-## License
+http://localhost:8080/ExpenseReimbursementSystem/expense/home
+
+The main screen should look similar to this
+
+[Home Screen](/images/homescreen.png)
 
